@@ -1,5 +1,7 @@
 Multi-Agent Systems (MAS) Gallery
 This repository is a comprehensive showcase of diverse architectural patterns and coordination strategies for Large Language Models. It serves as a practical guide for orchestrating multiple AI agents to solve complex document intelligence and reasoning tasks.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c71e179f-9c09-4e79-8c23-468fd7406c95" />
+
 
 📂 Project Portfolio
 1. Document Intelligence Hub (intelligence-hub)
